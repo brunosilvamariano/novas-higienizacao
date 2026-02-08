@@ -16,9 +16,10 @@
     color: var(--dark-quartaty);
 }
 
-.before-after-highlight {
-    color: var(--secondary-gold);
+.before-after-header p{
+    font-size: 1.1rem;
 }
+
 
 /* Container de Comparação */
 .ba-container {
@@ -141,7 +142,7 @@
     color: white !important;
     border: none;
     padding: 12px 24px;
-    border-radius: 8px;
+    border-radius: 18px;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 0.9rem;
